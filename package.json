@@ -1,0 +1,22 @@
+{
+  "name": "passgen",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "copy-to-clipboard": "^3.0.8",
+    "rc-checkbox": "^2.1.5",
+    "rc-slider": "^8.6.1",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-redux": "^5.0.7",
+    "react-scripts": "1.1.1",
+    "react-toastify": "^3.4.3",
+    "redux": "^3.7.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
